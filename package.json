@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/IgorVolk286/book/",
+    "build": "vite build --base=/https://github.com/IgorVolk286/book/",
     "preview": "vite preview"
   },
   "devDependencies": {
